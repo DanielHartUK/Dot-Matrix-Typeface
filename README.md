@@ -2,10 +2,10 @@
 
 A Dot Matrix style typeface, in regular and bold weights.
 
-##Regular
+## Regular
 ![Dot Matrix Regular font](https://github.com/DanielHartUK/Dot-Matrix-Typeface/blob/master/Images/bold.png)
 
-##Bold
+## Bold
 ![Dot Matrix Bold font](https://github.com/DanielHartUK/Dot-Matrix-Typeface/blob/master/Images/bold.png)
 
 ## License
