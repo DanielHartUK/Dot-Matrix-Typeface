@@ -3,10 +3,10 @@
 A Dot Matrix style typeface, in regular and bold weights.
 
 ##Regular
-[[https://github.com/DanielHartUK/Dot-Matrix-Typeface/blob/master/Images/bold.png|alt=Dot Matrix Regular font]]
+![Dot Matrix Regular font](https://github.com/DanielHartUK/Dot-Matrix-Typeface/blob/master/Images/bold.png)
 
 ##Bold
-[[https://github.com/DanielHartUK/Dot-Matrix-Typeface/blob/master/Images/bold.png|alt=Dot Matrix Bold font]]
+![Dot Matrix Bold font](https://github.com/DanielHartUK/Dot-Matrix-Typeface/blob/master/Images/bold.png)
 
 ## License
 SIL Open Font License - http://scripts.sil.org/OFL
